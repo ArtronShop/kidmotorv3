@@ -56,7 +56,7 @@ Blockly.Blocks['kidmotor_motor_turn_left'] = {
 	init: function() {
 		this.jsonInit({
 			"type": "kidmotor_motor_turn_left",
-			"message0": Blockly.Msg.KIDMOTOR_MOTOR_turn_LEFT_MESSAGE,
+			"message0": Blockly.Msg.KIDMOTOR_MOTOR_TURN_LEFT_MESSAGE,
 			"args0": [{
 				"type": "field_number",
 				"name": "speed",
@@ -73,7 +73,7 @@ Blockly.Blocks['kidmotor_motor_turn_left'] = {
 			"previousStatement": null,
 			"nextStatement": null,
 			"colour": 45,
-			"tooltip": Blockly.Msg.KIDMOTOR_MOTOR_turn_LEFT_TOOLTIP,
+			"tooltip": Blockly.Msg.KIDMOTOR_MOTOR_TURN_LEFT_TOOLTIP,
 			"helpUrl": ""
 		});
 	}
@@ -83,7 +83,7 @@ Blockly.Blocks['kidmotor_motor_turn_right'] = {
 	init: function() {
 		this.jsonInit({
 			"type": "kidmotor_motor_turn_right",
-			"message0": Blockly.Msg.KIDMOTOR_MOTOR_turn_RIGHT_MESSAGE,
+			"message0": Blockly.Msg.KIDMOTOR_MOTOR_TURN_RIGHT_MESSAGE,
 			"args0": [{
 				"type": "field_number",
 				"name": "speed",
@@ -100,7 +100,7 @@ Blockly.Blocks['kidmotor_motor_turn_right'] = {
 			"previousStatement": null,
 			"nextStatement": null,
 			"colour": 45,
-			"tooltip": Blockly.Msg.KIDMOTOR_MOTOR_turn_RIGHT_TOOLTIP,
+			"tooltip": Blockly.Msg.KIDMOTOR_MOTOR_TURN_RIGHT_TOOLTIP,
 			"helpUrl": ""
 		});
 	}
@@ -117,8 +117,8 @@ Blockly.Blocks['kidmotor_motor_move'] = {
 				"options": [
 					[ Blockly.Msg.KIDMOTOR_MOTOR_MOVE_FORWARD_MESSAGE, "1" ],
 					[ Blockly.Msg.KIDMOTOR_MOTOR_MOVE_BACKWARD_MESSAGE, "2" ],
-					[ Blockly.Msg.KIDMOTOR_MOTOR_MOVE_turn_LEFT_MESSAGE, "3" ],
-					[ Blockly.Msg.KIDMOTOR_MOTOR_MOVE_turn_RIGHT_MESSAGE, "4" ]
+					[ Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TURN_LEFT_MESSAGE, "3" ],
+					[ Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TURN_RIGHT_MESSAGE, "4" ]
 				]
 			}, {
 				"type": "field_number",

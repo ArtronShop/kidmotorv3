@@ -18,17 +18,17 @@ Blockly.Msg.KIDMOTOR_MOTOR_FORWARD_TOOLTIP = "";
 Blockly.Msg.KIDMOTOR_MOTOR_BACKWARD_MESSAGE = "วิ่งถอยหลังด้วยความเร็ว %1 %% เป็นเวลา %2 วินาที";
 Blockly.Msg.KIDMOTOR_MOTOR_BACKWARD_TOOLTIP = "";
 
-Blockly.Msg.KIDMOTOR_MOTOR_TRUN_LEFT_MESSAGE = "เลี้ยวซ้ายด้วยความเร็ว %1 %% เป็นเวลา %2 วินาที";
-Blockly.Msg.KIDMOTOR_MOTOR_TRUN_LEFT_TOOLTIP = "";
+Blockly.Msg.KIDMOTOR_MOTOR_TURN_LEFT_MESSAGE = "เลี้ยวซ้ายด้วยความเร็ว %1 %% เป็นเวลา %2 วินาที";
+Blockly.Msg.KIDMOTOR_MOTOR_TURN_LEFT_TOOLTIP = "";
 
-Blockly.Msg.KIDMOTOR_MOTOR_TRUN_RIGHT_MESSAGE = "เลี้ยวขวาด้วยความเร็ว %1 %% เป็นเวลา %2 วินาที";
-Blockly.Msg.KIDMOTOR_MOTOR_TRUN_RIGHT_TOOLTIP = "";
+Blockly.Msg.KIDMOTOR_MOTOR_TURN_RIGHT_MESSAGE = "เลี้ยวขวาด้วยความเร็ว %1 %% เป็นเวลา %2 วินาที";
+Blockly.Msg.KIDMOTOR_MOTOR_TURN_RIGHT_TOOLTIP = "";
 
 Blockly.Msg.KIDMOTOR_MOTOR_MOVE_MESSAGE = "%1 ด้วยความเร็ว %2 %%";
 Blockly.Msg.KIDMOTOR_MOTOR_MOVE_FORWARD_MESSAGE = "วิ่งไปข้างหน้า";
 Blockly.Msg.KIDMOTOR_MOTOR_MOVE_BACKWARD_MESSAGE = "วิ่งถอยหลัง";
-Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TRUN_LEFT_MESSAGE = "เลี้ยวซ้าย";
-Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TRUN_RIGHT_MESSAGE = "เลี้ยวขวา";
+Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TURN_LEFT_MESSAGE = "เลี้ยวซ้าย";
+Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TURN_RIGHT_MESSAGE = "เลี้ยวขวา";
 Blockly.Msg.KIDMOTOR_MOTOR_MOVE_TOOLTIP = "";
 
 Blockly.Msg.KIDMOTOR_MOTOR_WHEEL_MESSAGE = "ล้อซ้ายหมุนด้วยความเร็ว %1 %%, ล้อขวาหมุนด้วยความเร็ว %2 %%";
